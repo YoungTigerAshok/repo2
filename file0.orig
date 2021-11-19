@@ -1,10 +1,10 @@
 hello.java
-public static void main {
+public static void main { --------#dev2
 system.out.println("hello from dev2")
 }
 end 
 here
-
+<<<<<<< HEAD
 =======
 
 >>>>>>> 284bfbd79629ae3665a44a27b5b61f9183333b86
